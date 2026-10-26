@@ -2,3 +2,6 @@ python-dotenv
 pandas
 numpy
 pymongo
+setuptools
+
+-e .
