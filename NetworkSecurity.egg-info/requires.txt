@@ -3,3 +3,4 @@ pandas
 numpy
 pymongo
 setuptools
+pymongo[srv]==3.6
